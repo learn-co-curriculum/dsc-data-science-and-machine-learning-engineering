@@ -18,7 +18,7 @@ Over the course of your studies, you've picked up many different skills in many 
 
 At large companies such as Google and Facebook, Data Scientists typically run experiments and train models until they have found a solution that works. Once they have trained a validated the model, they typically then hand off productionization of the model to **_Machine Learning Engineers_**. Whereas the Data Scientist creates the basic prototype, the Machine Learning Engineer's job is to put that model into a production system in a performant and maintainable manner. Whereas Data Scientists at large companies focus on the "big picture" by finding solutions to business problems, Machine Learning Engineers focus on the details, implementing the solutions created by the data scientists in the best way possible. Data Scientists focus more on analytics and statistics, whereas Machine Learning Engineers will have a stronger command of backend engineering, data structure ang algorithms, and software engineering overall. The following diagram lays out the relationship between different technical roles well:
 
-<img src='images/ds-venn-diagram.png' height=80% width=80%>
+<img src='images/new-venn-diagram.png' height=80% width=80%>
 
 As you can see from the overlap between _Data Scientist_ and _Machine Learning Engineer_, there is still significant overlap between the two--a Data Scientist should be able to productionize a basic machine learning model, just as a Machine Learning Engineer should have be able to train a model, validate results, and deal with overfitting. 
 
@@ -45,3 +45,8 @@ For the remainder of this section, we're going to dig deep into all the amazing 
 ## Summary
 
 In this lesson, we learned about the similarities and differences between Data Scientists and Machine Learning Engineers. We also learned why the ability to productionize a machine learning model is a crucial skill for data scientists, as well as how this skill can provide a great competitive advantage when applying for jobs!
+
+
+```python
+
+```
